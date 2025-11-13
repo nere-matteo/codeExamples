@@ -1,6 +1,6 @@
 public class Main {
     public void doSomething() {
-        int x = 42; // the variable is never used
+        int x = 42; 
         System.out.println("Hello");
     }
 
